@@ -11,6 +11,11 @@ public class MainDrive {
 		h1.eat();
 		h1.sleep();
 
+		h1.doStudy();
+		h1.goToSchool();
+
+		h1.earnMoney();
+
 	}
 
 }
